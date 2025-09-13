@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Akbar  
 
-📚 Welcome to **akbar-devlog** — a dedicated space for learning, experimenting, and documenting my journey as a developer.  
+📚 Welcome to **code-with-akbar** — a dedicated space for learning, experimenting, and documenting my journey as a developer.  
 
 ---
 
